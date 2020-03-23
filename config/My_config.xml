@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+ <properties>
+   <comment>algorithm is the class implementing your algorithm and instance
+   	is the datafile holding the instance to solve
+   </comment>
+   <!-- Nbr d'ob-->
+   <entry key="algorithm">polytech.tours.di.parallel.tsp.myalgorithm.MLS</entry>
+   <!-- Temps - sec -->
+   <entry key="maxcpu">60</entry>
+   <entry key="instance">./data/qa194.tsp.txt</entry>
+   <!-- Nbr-->
+   <entry key="seed">123456</entry>
+</properties>
